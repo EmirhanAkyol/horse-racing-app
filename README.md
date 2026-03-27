@@ -1,0 +1,1 @@
+A Vue 3–based horse racing simulation app where 20 randomly generated horses compete in 6 rounds. Horse speed depends on condition, races are animated in real time, and results are displayed after each round. Built with Vuex for state management, Tailwind CSS for styling, and tested with Jest.
